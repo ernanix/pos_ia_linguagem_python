@@ -1,7 +1,7 @@
-﻿## pos_ia_linguagem_python
+﻿# pos_ia_linguagem_python
 
-# Materiais de aula do Curso de Linguagem de Programação Aplicada
+## Materiais de aula do Curso de Linguagem de Programação Aplicada
 
-# Especialização em Inteligência Artificial Aplicada
+### Especialização em Inteligência Artificial Aplicada
 
-# Curitiba - 30/05/22
+### Curitiba - 30/05/22
