@@ -1,0 +1,33 @@
+Olá
+Isso é um teste
+Beleza?
+Então
+É o Seguinte
+Subject: Teste
+Leia isso aqui
+Aqui também
+
+
+Counter({(False, False): 696, (True, False): 104, (True, True): 26})
+
+Counter({(False, False): 696, (True, False): 117, (True, True): 13})
+
+Counter({(False, False): 670, (True, True): 86, (True, False): 40, (False, True): 29})
+
+Counter({(False, False): 1397, (True, False): 218, (True, True): 35, (False, True): 1})
+Counter({(False, False): 1397, (True, False): 208, (True, True): 45, (False, True): 1})
+
+
+Counter({(False, False): 696, (True, False): 92, (True, True): 38})
+
+Counter({(False, False): 696, (True, False): 88, (True, True): 42})
+
+
+
+Counter({(False, False): 696, (True, False): 84, (True, True): 46})
+
+Counter({(False, False): 670, (True, True): 86, (True, False): 40, (False, True): 29})
+
+Counter({(False, False): 695, (True, False): 88, (True, True): 42, (False, True): 1})
+Counter({(False, False): 695, (True, False): 79, (True, True): 51, (False, True): 1})
+Counter({(False, False): 696, (True, False): 87, (True, True): 43})
